@@ -6,4 +6,4 @@ for(let i=n;i>=1;i--){
         row+=j;
     }
     console.log(row);
-}git status 
+}
