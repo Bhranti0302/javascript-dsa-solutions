@@ -25,3 +25,6 @@ function checkNumIsPalindrome(num) {
 console.log(checkNumIsPalindrome(121)); // true
 console.log(checkNumIsPalindrome(-121)); // false
 console.log(checkNumIsPalindrome(10)); // false
+console.log(checkNumIsPalindrome(12321)); // true
+
+
